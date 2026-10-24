@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Dynamic Programming
 |  |
 | ------- |
