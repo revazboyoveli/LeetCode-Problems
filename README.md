@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
