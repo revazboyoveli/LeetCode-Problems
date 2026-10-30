@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
