@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
