@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
