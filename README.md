@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +83,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
