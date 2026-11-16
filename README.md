@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
