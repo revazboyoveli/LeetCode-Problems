@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
