@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
