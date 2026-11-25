@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -52,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -130,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
