@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int ans = 0;
-        set<int> s;
+        unordered_set<int> s;
         for(int n : nums){
             s.insert(n);
         }
