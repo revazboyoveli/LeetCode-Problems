@@ -29,7 +29,6 @@ public:
 
         ListNode* toDel = curr->next;
         curr->next = toDel->next;
-        delete toDel;
 
         return dummy.next;
     }
