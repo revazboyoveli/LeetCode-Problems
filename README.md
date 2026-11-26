@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
