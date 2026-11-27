@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0289-game-of-life) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -151,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/revazboyoveli/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
